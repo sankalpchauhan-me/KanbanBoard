@@ -85,6 +85,6 @@ Open terminal and type the below command to generate release build
 After running the above command, By default the output can be found in app/build/outputs/apk/debug/apk-debug.apk
 
 
-The app is yet to be published on PlayStore:
+The app is Published on PlayStore:
 <p align="center">
-<a href='https://play.google.com/apps/testing/me.sankalpchauhan.kanbanboard'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=me.sankalpchauhan.kanbanboard'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
